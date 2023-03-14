@@ -67,6 +67,7 @@ header .current a {
 
 /*호버=마우스가 위에 올라간 상태*/
 header a:hover {
+  border-bottom: #13cca1 2px dashed;
   color: #aaaaaa;
   font-weight: bold;
 }
